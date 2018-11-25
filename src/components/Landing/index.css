@@ -1,0 +1,64 @@
+.landing-grid {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    text-align: center;
+    margin: auto;
+    background: #4B79A1;
+    background: -webkit-linear-gradient(to right, #283E51, #4B79A1);
+    background: linear-gradient(to right, #283E51, #4B79A1);
+}
+
+.profile-img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+}
+
+.banner-txt {
+    width: 75%;
+    margin: auto;
+    border-radius: 10px;
+    opacity: 0.7;
+    background-color: cadetblue;
+    padding: 1px;
+}
+
+.banner-txt h2 {
+    text-align: center;
+    color: antiquewhite;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.banner-txt hr {
+    border-top: 5px dotted white;
+    margin: auto;
+    width: 50%;
+}
+
+.banner-txt p {
+    color: white;
+    padding: 1em;
+    font-size: 25px;
+    text-align: center;
+}
+
+.banner-txt .others {
+    color: white;
+    padding: 0.2em;
+    font-size: 18px;
+    text-align: center;
+}
+.social-links {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.social-icon {
+    margin-left: 10px;
+    padding: 5px;
+}

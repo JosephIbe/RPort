@@ -1,0 +1,33 @@
+.contacts-body {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    position: fixed;
+    justify-content: center;
+    padding-top: 20px;
+    background: dimgray;
+}
+
+.contacts-grid {
+    text-align: center;
+    justify-content: center;
+    width: 90%;
+    height: 520px;
+    margin: 15px;
+    background: white;
+}
+
+.contacts-grid h2 {
+    font-family: 'Anton', sans-serif;
+}
+
+.contacts-grid p {
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 300;
+}
+
+.contacts-grid hr {
+    border-top: 5px dotted black;
+    width: 50%;
+    margin: auto;
+}

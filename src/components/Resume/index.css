@@ -1,0 +1,11 @@
+.resume-right-col {
+    background: cadetblue;
+    color: beige;
+    padding: 24px;
+}
+
+.avatar {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
